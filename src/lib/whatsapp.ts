@@ -1,5 +1,5 @@
 // WhatsApp integration utility
-const ADMIN_WHATSAPP = "919876543210"; // Replace with actual admin number
+const ADMIN_WHATSAPP = "917736863289"; // Replace with actual admin number
 
 export interface OrderDetails {
   productName: string;
