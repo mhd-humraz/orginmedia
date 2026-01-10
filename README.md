@@ -1,73 +1,75 @@
-# Welcome to your Lovable project
+# 🖼️ Origin Media – Wall Poster Website
 
-## Project info
+Origin Media is a simple and lightweight e-commerce website built for a wall poster business.
+Instead of a traditional cart system, this project uses a WhatsApp-based ordering method to make purchasing easy, fast, and beginner-friendly.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 Features
 
-## How can I edit this code?
+🛒 Buy via WhatsApp
 
-There are several ways of editing your application.
+Click the Buy button to open WhatsApp
 
-**Use Lovable**
+Auto-generated message with:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Poster details
 
-Changes made via Lovable will be committed automatically to this repo.
+Customer name
 
-**Use your preferred IDE**
+Address
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+✅ Double verification
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Customers can review order details before sending
 
-Follow these steps:
+Reduces order mistakes
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+📱 Responsive design
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Works on mobile, tablet, and desktop
 
-# Step 3: Install the necessary dependencies.
-npm i
+## ⚡ No cart system
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+Simple and effective solution for small businesses
+
+Easy to implement without backend complexity
+
+WhatsApp Click-to-Chat API
+
+## 📂 Project Structure
 ```
+origin-media/
+│── index.html
+│── css/
+│   └── style.css
+│── js/
+│   └── script.js
+│── assets/
+│   └── images/
+│── README.md
+```
+## 🧠 What I Learned
 
-**Edit a file directly in GitHub**
+Building a real-world e-commerce flow
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Implementing WhatsApp-based order automation
 
-**Use GitHub Codespaces**
+Handling user inputs and formatting messages dynamically
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Creating practical solutions without using a cart system
 
-## What technologies are used for this project?
+Improving UI/UX for small business websites
 
-This project is built with:
+## 🌐 Live Demo
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🔗 Live Website: (Add your hosted link here)
+🔗 GitHub Repo: (This repository)
 
-## How can I deploy this project?
+## 📌 Future Improvements
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+🛍️ Add cart system
 
-## Can I connect a custom domain to my Lovable project?
+🔐 Admin panel for order management
 
-Yes, you can!
+💳 Online payment integration
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+📦 Order tracking system
